@@ -13,5 +13,3 @@ This is a custom mainboard designed for an autonomous vehicle. It integrates an 
 - Designed as part of a student robotics club project.
 - Includes schematic, PCB layout, and export files (Gerber/BOM/3D).
 
-## Screenshots
-(Add layout and schematic screenshots here.)
